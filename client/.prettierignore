@@ -1,0 +1,5 @@
+﻿package-lock.json
+yarn.lock
+public
+.husky
+*.min.css

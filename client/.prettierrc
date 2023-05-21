@@ -1,0 +1,21 @@
+{
+	"tabWidth": 2,
+	"useTabs": true,
+	"arrowParens": "avoid",
+	"semi": true,
+	"singleQuote": true,
+	"quoteProps": "consistent",
+	"bracketSpacing": true,
+	"bracketSameLine": true,
+	"jsxBracketSameLine": true,
+	"printWidth": 120,
+	"trailingComma": "none",
+	"overrides": [
+		{
+			"files": ["*.html", "*.hbs"],
+			"options": {
+				"singleQuote": false
+			}
+		}
+	]
+}
