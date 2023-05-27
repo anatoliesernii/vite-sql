@@ -1,0 +1,13 @@
+// Parent file that will export all components styles.
+// If any new component-style is being created, add below the name of the file.
+
+// Start
+@import "layout-horizontal";
+@import "layout-vertical";
+@import "layout-footer";
+@import "breadcrumbs";
+@import "modals";
+@import "buttons";
+@import "inputs";
+
+//End

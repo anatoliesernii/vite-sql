@@ -1,0 +1,7 @@
+// Main file to load all styles.
+// Take care the order of imports.
+
+@import './globals/globals.scss';
+@import 'generic';
+@import './pages/pages.scss';
+@import './components/components.scss';
