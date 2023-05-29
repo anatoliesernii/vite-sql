@@ -1,6 +1,9 @@
 // Parent file that will export all pages styles.
 // If any new pages-style is being created, be sure to add below the name of the file.
 
+@import "home";
 @import "login";
 @import "notfound";
 @import "customers";
+@import "products";
+@import "sales";
